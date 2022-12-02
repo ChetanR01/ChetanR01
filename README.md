@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/chetan-rathod-8b0a14207/" target="_blank"> Chetan Rathod </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Backend+Developer+%3A)" /> </h3>
 
-- 👨‍💻 Check out my personal portfolio : <a href="https://crrathod.herokuapp.com/" target="_blank"> Portfolio </a>
-- 👨‍💻 Check out my Blog Website : <a href="https://crrathod.herokuapp.com/blog" target="_blank">CRRathod Blog.</a>
+- 👨‍💻 Check out my personal portfolio : <a href="https://crrathod.up.railway.app/" target="_blank"> Portfolio </a>
+- 👨‍💻 Check out my Blog Website : <a href="https://crrathod.up.railway.app/blog" target="_blank">CRRathod Blog.</a>
 - 💬 Ask me about Python, Django
 - 😄 Pronouns: He/His
 
