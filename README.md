@@ -63,6 +63,20 @@
 </div>
 
 <br>
+<br>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=chetanr01&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanr01&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+   </table>
+</p>
+
+<br>
 <h3 align="left" dir="auto">Hacktoberfest :</h3>
 
 [![An image of @chetanr01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetanr01)](https://holopin.io/@chetanr01)
